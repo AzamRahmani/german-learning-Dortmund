@@ -378,3 +378,338 @@ The verb goes to the end of the `wenn` clause.
 - Verb position after `dass`, `weil`, `wenn`, and indirect question words
 - Dative after `vertrauen`
 - Important vocabulary about news and social media
+
+# Exercise 2: Five Interviews About Media Use
+
+## Interview 1: Sonja Fries
+
+### Summary
+
+Sonja mainly obtains information through social media and websites. She follows people and news channels. When she finds something interesting, she checks other websites for more detailed information. She also follows people who post vegan recipes.
+
+### Important Structures
+
+**sich über etwas informieren**
+
+*to obtain information about something*
+
+**Ich informiere mich über aktuelle Themen.**
+
+*I obtain information about current topics.*
+
+**jemandem folgen + Dative**
+
+*to follow someone*
+
+**Ich folge verschiedenen Nachrichtensendern.**
+
+*I follow various news channels.*
+
+**von etwas abhängen + Dative**
+
+*to depend on something*
+
+**Das hängt vom Thema ab.**
+
+*That depends on the topic.*
+
+**sich auf etwas freuen**
+
+*to look forward to something*
+
+**Ich freue mich auf das gemeinsame Kochen.**
+
+*I look forward to cooking together.*
+
+---
+
+## Interview 2: Peter Nowak
+
+### Summary
+
+Peter prefers printed newspapers. He sometimes watches documentaries and television news, but he usually listens to the news on the radio. He does not use social media because he is concerned about fake news.
+
+### Important Structures
+
+**fernsehen**
+
+*to watch television*
+
+**Ich sehe nicht oft fern.**
+
+*I do not often watch television.*
+
+**sich etwas ansehen**
+
+*to watch something*
+
+**Ich sehe mir einen Dokumentarfilm an.**
+
+*I watch a documentary.*
+
+**Angst vor etwas haben + Dative**
+
+*to be afraid of something*
+
+**Ich habe Angst vor Fake News.**
+
+*I am afraid of fake news.*
+
+**jemandem vertrauen + Dative**
+
+*to trust someone or something*
+
+**Ich vertraue meiner Zeitung.**
+
+*I trust my newspaper.*
+
+**seit + Present Tense**
+
+**Ich lese diese Zeitung seit vielen Jahren.**
+
+*I have been reading this newspaper for many years.*
+
+---
+
+## Interview 3: Lara Sintic
+
+### Summary
+
+Lara is interested in music, films, and fashion. She follows different social-media channels and watches videos. Current topics are also discussed at school, but she finds the discussions boring.
+
+### Important Structures
+
+**sich für etwas interessieren**
+
+*to be interested in something*
+
+**Ich interessiere mich für Musik, Filme und Mode.**
+
+*I am interested in music, films, and fashion.*
+
+**Wofür interessierst du dich?**
+
+*What are you interested in?*
+
+**Dafür interessiere ich mich.**
+
+*I am interested in that.*
+
+**über etwas sprechen**
+
+*to talk about something*
+
+**Wir sprechen über aktuelle Themen.**
+
+*We talk about current topics.*
+
+**darüber diskutieren**
+
+*to discuss it*
+
+**Wir diskutieren darüber.**
+
+*We discuss it.*
+
+---
+
+## Interview 4: Harald Pauls
+
+### Summary
+
+Harald watches videos and uses streaming services. He is interested in history and technology and listens to podcasts. He uses social media mainly to stay in contact with friends, not to obtain news. He criticises social-media algorithms for repeatedly showing similar topics and opinions.
+
+### Important Structures
+
+**Es geht um + Accusative**
+
+*It is about something.*
+
+**Es geht um Medien und Mediennutzung.**
+
+*It is about media and media use.*
+
+**damit + Subordinate Clause**
+
+**Ich nutze soziale Medien, damit ich Kontakt zu meinen Freunden habe.**
+
+*I use social media so that I can stay in contact with my friends.*
+
+**sich über etwas ärgern**
+
+*to be annoyed about something*
+
+**Ich ärgere mich über einseitige Empfehlungen.**
+
+*I am annoyed about one-sided recommendations.*
+
+**Passive Voice**
+
+**Die gleichen Themen werden angezeigt.**
+
+*The same topics are displayed.*
+
+---
+
+## Interview 5: Emily Jones
+
+### Summary
+
+Emily uses online newspapers, social media, videos, and podcasts. She reads several newspapers to receive different opinions. She is especially interested in politics and reports from other countries.
+
+### Important Structures
+
+**mehrere Zeitungen**
+
+*several newspapers*
+
+**mehr Informationen**
+
+*more information*
+
+**mehr über etwas erfahren**
+
+*to learn more about something*
+
+**Ich möchte mehr über das Thema erfahren.**
+
+*I would like to learn more about the topic.*
+
+**mitbekommen**
+
+*to notice or become aware of something*
+
+**Ich möchte unterschiedliche Meinungen mitbekommen.**
+
+*I want to become aware of different opinions.*
+
+**Beiträge aus dem Ausland**
+
+*reports or posts from abroad*
+
+---
+
+# Exercise 2a: Media Used by Each Person
+
+| Medium | Sonja | Peter | Lara | Harald | Emily |
+|---|---:|---:|---:|---:|---:|
+| Television |  | Yes |  |  |  |
+| Podcasts |  |  |  | Yes | Yes |
+| Radio |  | Yes |  |  |  |
+| Social media | Yes |  | Yes |  | Yes |
+| Videos |  |  | Yes | Yes | Yes |
+| Websites | Yes |  |  |  |  |
+| Printed newspaper |  | Yes |  |  |  |
+| Online newspaper |  |  |  |  | Yes |
+
+# Exercise 2b: True or False
+
+1. False
+2. True
+3. False
+4. False
+5. True
+6. True
+7. False
+8. True
+9. False
+10. False
+11. True
+
+# Important Pronominal Adverbs
+
+| Question | Answer | Meaning |
+|---|---|---|
+| Wofür? | dafür | for it |
+| Worüber? | darüber | about it |
+| Worum? | darum | about it |
+| Worauf? | darauf | for it |
+| Wovon? | davon | about or from it |
+| Womit? | damit | with it |
+
+# Verbs with Prepositions
+
+| Expression | Case | Example |
+|---|---|---|
+| sich informieren über | Accusative | Ich informiere mich über Politik. |
+| sich interessieren für | Accusative | Ich interessiere mich für Technik. |
+| sich freuen auf | Accusative | Ich freue mich auf die nächste Folge. |
+| sich ärgern über | Accusative | Ich ärgere mich über Fake News. |
+| Angst haben vor | Dative | Ich habe Angst vor Fake News. |
+| abhängen von | Dative | Das hängt vom Thema ab. |
+| jemandem folgen | Dative | Ich folge diesem Kanal. |
+| jemandem vertrauen | Dative | Ich vertraue dieser Quelle. |
+
+# Important Vocabulary
+
+| German | Article / Form | English |
+|---|---|---|
+| die Nachrichtenquelle | die Nachrichtenquellen | news source |
+| der Nachrichtensender | die Nachrichtensender | news channel |
+| die Online-Zeitung | die Online-Zeitungen | online newspaper |
+| der Dokumentarfilm | die Dokumentarfilme | documentary |
+| der Streamingdienst | die Streamingdienste | streaming service |
+| die Meinung | die Meinungen | opinion |
+| der Beitrag | die Beiträge | post, report, contribution |
+| die Filterblase | die Filterblasen | filter bubble |
+| das Ausland | singular | abroad, foreign countries |
+| zuverlässig | adjective | reliable |
+| einseitig | adjective | one-sided |
+| überprüfbar | adjective | verifiable |
+| vertrauen | verb + Dative | to trust |
+| vergleichen | verb | to compare |
+| mitbekommen | separable verb | to notice |
+| ausreichen | separable verb | to be sufficient |
+
+# Important Collocations
+
+| German expression | English |
+|---|---|
+| aktuelle Nachrichten verfolgen | to follow current news |
+| verschiedene Quellen vergleichen | to compare different sources |
+| einer Quelle vertrauen | to trust a source |
+| eine Nachricht überprüfen | to verify a news report |
+| eine wichtige Rolle spielen | to play an important role |
+| unterschiedliche Meinungen mitbekommen | to become aware of different opinions |
+| sich Beiträge ansehen | to view reports or posts |
+| Nachrichten im Radio hören | to listen to news on the radio |
+| einen Dokumentarfilm ansehen | to watch a documentary |
+| mit Freunden in Kontakt bleiben | to stay in contact with friends |
+| vom Studium ablenken | to distract from studying |
+| eine Quelle reicht nicht aus | one source is not sufficient |
+
+# My Final Opinion
+
+**Meiner Meinung nach ist es besser, mehrere verschiedene Medien zu nutzen und ihre Informationen miteinander zu vergleichen.**
+
+*In my opinion, it is better to use several different media sources and compare their information.*
+
+**Einerseits kann eine einzige Quelle unzuverlässig oder einseitig sein.**
+
+*On the one hand, a single source may be unreliable or one-sided.*
+
+**Andererseits kann die Nutzung zu vieler Quellen verwirrend sein und viel Zeit kosten.**
+
+*On the other hand, using too many sources can be confusing and time-consuming.*
+
+**Wenn ich eine wichtige Nachricht lese, vergleiche ich sie mit Informationen aus anderen zuverlässigen Quellen.**
+
+*When I read an important news report, I compare it with information from other reliable sources.*
+
+**Dadurch kann ich mehr Informationen erhalten und die Nachricht besser beurteilen.**
+
+*This allows me to obtain more information and assess the news report better.*
+
+# What I Learned
+
+- How different people use media
+- How to describe personal media habits
+- How to compare information sources
+- How to discuss reliable and unreliable news
+- Verbs with accusative and dative prepositions
+- Pronominal adverbs such as `dafür`, `darüber`, and `darauf`
+- Subordinate clauses with `dass`, `weil`, `wenn`, and `damit`
+- Passive voice with `werden + Partizip II`
+- How to express an opinion using `einerseits ... andererseits`
+
+  
