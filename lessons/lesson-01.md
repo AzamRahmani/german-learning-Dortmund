@@ -104,3 +104,277 @@ The infinitive comes at the end:
 - Dative with `folgen`
 - Purpose clauses with `um ... zu`
 - Vocabulary for describing smartphone use
+# Exercise 2: Medien und Mediennutzung
+
+## Introduction to the Audio
+
+**Heute sprechen wir über das Thema Medien und Mediennutzung.**
+
+*Today we are talking about media and media use.*
+
+**Uns interessiert besonders, wie Menschen sich über aktuelle Themen informieren.**
+
+*We are particularly interested in how people obtain information about current topics.*
+
+**Außerdem geht es darum, wie und wofür Menschen soziale Medien nutzen.**
+
+*The topic also concerns how and for what purposes people use social media.*
+
+## Grammar: sich informieren
+
+### Conjugation
+
+| Person | Form |
+|---|---|
+| ich | informiere mich |
+| du | informierst dich |
+| er / sie / es | informiert sich |
+| wir | informieren uns |
+| ihr | informiert euch |
+| sie / Sie | informieren sich |
+
+### Common Structures
+
+**sich über etwas informieren**
+
+*to obtain information about something*
+
+**Ich informiere mich über aktuelle Themen.**
+
+*I obtain information about current topics.*
+
+**sich bei einer Stelle informieren**
+
+*to obtain information from an organisation or contact point*
+
+**Ich informiere mich bei offiziellen Stellen.**
+
+*I obtain information from official organisations.*
+
+**sich auf einer Webseite informieren**
+
+*to obtain information from a website*
+
+**Ich informiere mich auf offiziellen Webseiten.**
+
+*I obtain information from official websites.*
+
+## Grammar: Indirect Questions
+
+**Wie informieren sich Menschen?**
+
+*How do people obtain information?*
+
+**Uns interessiert, wie Menschen sich informieren.**
+
+*We are interested in how people obtain information.*
+
+In an indirect question, the conjugated verb moves to the end.
+
+## Difference Between wie and wofür
+
+**Wie nutzen Sie Instagram?**
+
+*How do you use Instagram?*
+
+**Wofür nutzen Sie Instagram?**
+
+*What do you use Instagram for?*
+
+**Ich nutze Instagram, um Informationen zu teilen.**
+
+*I use Instagram to share information.*
+
+## My Discussion Answer 1
+
+### Wo informieren Sie sich über aktuelle Themen?
+
+**Ich informiere mich hauptsächlich über soziale Medien und verschiedene Internetseiten.**
+
+*I mainly obtain information through social media and various websites.*
+
+**Außerdem nutze ich WhatsApp-Gruppen, Telegram und andere Apps.**
+
+*I also use WhatsApp groups, Telegram, and other apps.*
+
+**Ich denke, dass die Medien heutzutage eine sehr wichtige Rolle spielen.**
+
+*I think that the media play a very important role nowadays.*
+
+**Viele Menschen posten verschiedene Themen und Nachrichten auf ihren Seiten.**
+
+*Many people post different topics and news on their pages.*
+
+**Bei wichtigen Nachrichten suche ich zuerst weitere Informationen zu diesem Thema.**
+
+*For important news, I first look for further information about the topic.*
+
+**Danach sehe ich mir Videos auf YouTube an und vergleiche verschiedene Quellen.**
+
+*Afterwards, I watch videos on YouTube and compare different sources.*
+
+**Wir sollten nicht allen Nachrichten sofort glauben, sondern zuerst überprüfen, ob die Informationen zuverlässig sind.**
+
+*We should not immediately believe all news, but first check whether the information is reliable.*
+
+## My Discussion Answer 2
+
+### Warum sollte man Nachrichten aus sozialen Medien überprüfen?
+
+**Heutzutage benutzen viele Menschen Instagram, TikTok und andere soziale Medien.**
+
+*Nowadays, many people use Instagram, TikTok, and other social media platforms.*
+
+**Dort gibt es viele Informationen und Nachrichten, aber nicht alle Quellen sind zuverlässig.**
+
+*There is a lot of information and news there, but not all sources are reliable.*
+
+**Deshalb sollte man Nachrichten überprüfen und verschiedene Quellen miteinander vergleichen.**
+
+*Therefore, people should verify news and compare different sources.*
+
+**Man sollte nicht sofort allem vertrauen, was man hört oder sieht.**
+
+*People should not immediately trust everything they hear or see.*
+
+**Zum Beispiel sehe ich mir zuerst ein Video oder einen kurzen Clip an.**
+
+*For example, I first watch a video or a short clip.*
+
+**Danach suche ich nach weiteren Informationen und recherchiere auf anderen Webseiten.**
+
+*Afterwards, I look for further information and research on other websites.*
+
+**Manchmal benutze ich auch ChatGPT, aber wichtige Informationen überprüfe ich zusätzlich anhand zuverlässiger Originalquellen.**
+
+*Sometimes I also use ChatGPT, but I additionally verify important information using reliable original sources.*
+
+## My Discussion Answer 3
+
+### Woran erkennt man eine zuverlässige Nachrichtenquelle?
+
+**Diese Frage ist ein bisschen schwierig.**
+
+*This question is a little difficult.*
+
+**Eine zuverlässige Nachrichtenquelle erkennt man daran, dass man die Informationen überprüfen kann.**
+
+*You can recognise a reliable news source by the fact that its information can be verified.*
+
+**Ich informiere mich auch bei anderen Quellen, die zuverlässig sind.**
+
+*I also obtain information from other sources that are reliable.*
+
+**Ich vertraue nicht jeder Instagram-Seite, weil dort viele Menschen verschiedene Themen und Nachrichten posten.**
+
+*I do not trust every Instagram page because many people post different topics and news there.*
+
+**Manche Beiträge stammen nicht aus zuverlässigen Quellen.**
+
+*Some posts do not come from reliable sources.*
+
+**Wenn ich ein Video auf YouTube oder Instagram sehe, recherchiere ich danach weiter.**
+
+*When I see a video on YouTube or Instagram, I research the topic further afterwards.*
+
+**Ich suche andere Webseiten und vergleiche die Informationen.**
+
+*I look for other websites and compare the information.*
+
+**Eine Quelle ist für mich zuverlässig, wenn sie Belege nennt und die Informationen auch auf anderen seriösen Webseiten zu finden sind.**
+
+*For me, a source is reliable when it provides evidence and the information can also be found on other reputable websites.*
+
+## Important Grammar
+
+### dass-Clause
+
+**Ich denke, dass die Medien eine wichtige Rolle spielen.**
+
+*I think that the media play an important role.*
+
+The conjugated verb goes to the end after `dass`.
+
+### weil-Clause
+
+**Ich vergleiche verschiedene Quellen, weil nicht alle Nachrichten zuverlässig sind.**
+
+*I compare different sources because not all news is reliable.*
+
+The conjugated verb also goes to the end after `weil`.
+
+### wenn-Clause
+
+**Wenn ich ein Video sehe, recherchiere ich danach weiter.**
+
+*When I see a video, I research the topic further afterwards.*
+
+The verb goes to the end of the `wenn` clause.
+
+### vertrauen + Dative
+
+**Ich vertraue dieser Webseite.**
+
+*I trust this website.*
+
+**Ich vertraue nicht allen Nachrichten.**
+
+*I do not trust all news reports.*
+
+### sich etwas ansehen
+
+**Ich sehe mir ein Video an.**
+
+*I watch a video.*
+
+**Danach habe ich mir weitere Videos angesehen.**
+
+*Afterwards, I watched additional videos.*
+
+## Important Vocabulary
+
+| German | Article / Form | English | Example |
+|---|---|---|---|
+| das Medium | die Medien | medium | Soziale Medien spielen eine wichtige Rolle. |
+| die Mediennutzung | singular | media use | Die Umfrage untersucht die Mediennutzung. |
+| die Nachrichtenquelle | die Nachrichtenquellen | news source | Das ist eine zuverlässige Nachrichtenquelle. |
+| die Umfrage | die Umfragen | survey | Wir machen eine Umfrage. |
+| die Behauptung | die Behauptungen | claim | Ich überprüfe diese Behauptung. |
+| der Beleg | die Belege | evidence | Der Artikel nennt mehrere Belege. |
+| zuverlässig | adjective | reliable | Diese Webseite ist zuverlässig. |
+| seriös | adjective | reputable, credible | Ich nutze seriöse Webseiten. |
+| aktuell | adjective | current | Ich lese aktuelle Nachrichten. |
+| überprüfen | verb | to verify | Ich überprüfe die Information. |
+| vergleichen | verb | to compare | Ich vergleiche verschiedene Quellen. |
+| recherchieren | verb | to research | Ich recherchiere auf offiziellen Webseiten. |
+| stammen aus | verb phrase | to originate from | Die Information stammt aus einer Studie. |
+
+## Important Collocations
+
+| German expression | English |
+|---|---|
+| sich über aktuelle Themen informieren | to obtain information about current topics |
+| eine wichtige Rolle spielen | to play an important role |
+| soziale Medien nutzen | to use social media |
+| Informationen überprüfen | to verify information |
+| verschiedene Quellen vergleichen | to compare different sources |
+| einer Quelle vertrauen | to trust a source |
+| nach Informationen suchen | to search for information |
+| nach Belegen suchen | to look for evidence |
+| Belege nennen | to provide evidence |
+| eine Behauptung überprüfen | to verify a claim |
+| aus einer Quelle stammen | to originate from a source |
+| Fake News erkennen | to recognise fake news |
+| auf einer Webseite recherchieren | to research on a website |
+| sich ein Video ansehen | to watch a video |
+| Informationen bestätigen | to confirm information |
+
+## What I Learned
+
+- How to talk about media use
+- How to explain where I obtain information
+- How to identify reliable news sources
+- How to use `sich informieren`
+- Verb position after `dass`, `weil`, `wenn`, and indirect question words
+- Dative after `vertrauen`
+- Important vocabulary about news and social media
