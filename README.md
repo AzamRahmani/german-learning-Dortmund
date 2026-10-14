@@ -1,15 +1,19 @@
-# German Learning PDL
+# German Learning Notes A2-B1
 
-Daily German B1 learning notes based on my language course.
+Personal German study notes with direct English translations, grammar explanations, vocabulary, collocations, corrected exercises, and speaking practice.
 
-## Contents
+## Structure
 
-- Sentence-by-sentence translations
-- Grammar explanations
-- Vocabulary and collocations
-- Word formation
-- Exercises and corrections
+- `lessons/lesson-01-media-use.md`
+- `lessons/lesson-02-repair-cafe.md`
+- `lessons/lesson-03-fashion-sustainability.md`
+- `grammar/grammar-reference.md`
+- `vocabulary/core-collocations.md`
 
-## Learning goal
+## Study format
 
-My goal is to improve my German systematically and document my progress every day.# german-learning-Dortmund
+1. Correct German sentence
+2. English translation directly below
+3. Grammar explanation
+4. Vocabulary and collocations
+5. Copy-ready exercise answers
